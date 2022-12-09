@@ -1,0 +1,34 @@
+INSTALLATION
+_____________
+
+
+To install the despencies of the Tool you just must be run the install-script.
+To get the right proirity of the install-script you just must type in the terminal-line:
+            "chmod +x install.sh"
+And after that, you just must start the script with 
+            "./install.sh"
+And all run automated!
+
+______________
+
+
+TOOLUSING
+_____________
+
+To use the Tool right, you can type in stead of an IP-Address a website or server, thats all will works!
+To check the standart ports of the executing exploit, let the "Target Port:" field clear und just type enter.
+
+
+___________
+
+
+
+
+LEGAL DISCLAIMER
+____________________________
+You use the Tool only at your own risk!
+All scans and attacks you make with this Tool are not anonymized and only should run on ypur own, private servers andd routers!
+I dont support Black oder Red-Hat hacking, this is a WhiteHatHackingTool and all wrong uses are illegal!
+_____________________________
+
+~vDroPZz
