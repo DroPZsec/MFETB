@@ -3,7 +3,7 @@ _____________
 
 
 To install the despencies of the Tool you just must be run the install-script.
-To get the right proirity of the install-script you just must type in the terminal-line:
+To get the right prioirity of the install-script you just must type in the terminal-line:
             "chmod +x install.sh"
 And after that, you just must start the script with 
             "./install.sh"
