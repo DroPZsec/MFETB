@@ -30,7 +30,7 @@ To start the installation of metasploit-framework just type in the console:
         "chmod +x install.sh"
 and then:
         "./install.sh"
-And all installations are sccesfull autoatically!
+And all installations are sccesfull automatically!
 
 
 
